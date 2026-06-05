@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68ffd3fe6745b2af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_/Sätze/С нетерпением жду твоего ответа!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "С нетерпением жду твоего ответа!"
-            }
-          },
-          {
-            "id": "eac51ee34124e47e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Prüfung/Schreiben/Übungsgelände.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Übungsgelände"
-            }
-          },
-          {
             "id": "a3aafffd3d27631f",
             "type": "leaf",
             "state": {
@@ -48,8 +20,19 @@
               "icon": "lucide-file",
               "title": "AB"
             }
+          },
+          {
+            "id": "af315f50e1347152",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,46 +193,47 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "68ffd3fe6745b2af",
+  "active": "af315f50e1347152",
   "lastOpenFiles": [
     "_Prüfung/AB.md",
-    "_/Wörterbuch/Konjunction/außer.md",
-    "Wörterbuch/Konjunction/außer.md",
-    "Neu.md",
-    "_/Terminologie.md",
     "_Prüfung/Schreiben/Übungsgelände.md",
-    "_/Sätze/С нетерпением жду твоего ответа!.md",
-    "_/Sätze/Кроме того, я хотел бы попросить тебя помоги мне, пожалуйста, составить сопроводительное письмо..md",
-    "_/Sätze/Я буду зарабатывать достаточно денег и работать с молодыми коллегами..md",
+    "_/Sätze/Я работаю в IT-сфере..md",
+    "_/Sätze/Я просто бросаю то, что сейчас делаю, и расслабляюсь..md",
     "_/Sätze/Я по-прежнему интересуюсь естественными науками, и эта профессия мне очень подходит..md",
-    "Promt.md",
-    "_/Templates/Satz.md",
+    "_/Sätze/Я буду зарабатывать достаточно денег и работать с молодыми коллегами..md",
+    "_/Sätze/У некоторых из них есть заболевания из-за того, что они сидят на жестких курсах для похудения..md",
+    "_/Sätze/Тем не менее, я не считаю это проблемой, потому что мы оба работаем из дома..md",
+    "_/Sätze/Тебе нужно найти другое хобби..md",
+    "_/Sätze/Таким образом, диеты для похудения — это, конечно, не зло, но и не панацея..md",
+    "_/Sätze/Сельма не только хороша в математике, но и интересуется техникой..md",
+    "_/Sätze/С нетерпением жду твоего ответа!.md",
+    "_/Sätze/Регулярно измеряй кровяное давление, чтобы вовремя распознать болезни..md",
+    "_/Sätze/Расскажи, пожалуйста, что ты думаешь об этой квартире?.md",
+    "_/Sätze/Она работает врачом в больнице, и это часто вызывает стресс и утомляет..md",
+    "_/Sätze/Но, как уже было сказано, это может нанести вред здоровью..md",
+    "_/Sätze/Но со следующей недели она наконец-то сможет оставаться дома! Затем она уходит в декретный отпуск..md",
+    "_/Sätze/Но есть и минус ближайшая автобусная остановка находится довольно далеко..md",
+    "_/Sätze/На тебя и на твою работу всегда можно положиться..md",
+    "_/Sätze/Лучше заниматься под руководством специалиста, например, тренера по фитнесу..md",
+    "_/Sätze/Лиза не только работает учителем, но и занимается волонтерской деятельностью..md",
+    "_/Sätze/Кроме того, я хотел бы попросить тебя помоги мне, пожалуйста, составить сопроводительное письмо..md",
+    "_/Sätze/Когда мне вдруг становится слишком тяжело и я хочу расслабиться, я встречаюсь с друзьями или выхожу на прогулку с собакой..md",
+    "_/Sätze/Иногда мне кажется, что я не достаточно стройная..md",
     "_/Sätze/Иметь опыт означает, что ты уже работал в этой сфере и немного разбираешься в этой теме..md",
-    "_Prüfung/Schreiben/B1 Schr.md",
-    "Wörterbuch/Konjunction/bis.md",
+    "_/Sätze/Если вы хотите попробовать диету или курс похудения, вам следует проконсультироваться со специалистом..md",
+    "n",
+    "_/Sätze/SätzeArch",
+    "_/Sätze/Sätze Arch",
     "Wörterbuch/_.py",
     "Rektion/_Verbvalenz.canvas",
-    "Wörterbuch/Konjunction/ehe.md",
-    "Wörterbuch/Konjunction/um.md",
-    "Wörterbuch/Konjunction/seitdem.md",
-    "Wörterbuch/Konjunction/denn.sync-conflict-20250825-004945-AWTZEZ6.md",
-    "Rektion/Adjektive mit Präposition/-haben Lust auf.md",
-    "Wörterbuch/Mengenausdrücke/Sehr geehrte Damen und Herren.md",
-    "Rektion/Adjektive mit Präposition/-glücklich + über.md",
     "Wörterbuch/Konjunction",
     "Wörterbuch/Mengenausdrücke",
     "Rektion/Adjektive mit Präposition",
     "Rektion",
     "Wörterbuch",
-    "_/Sätze/На тебя и на твою работу всегда можно положиться..md",
-    "_/Sätze/Я работаю в IT-сфере..md",
-    "_Prüfung/Sprechen T2/Theme/Alltag und Gewohnheiten.md",
-    "_/_Deutschonline/DeOn Sprach.md",
     "Methodik.canvas",
     "_Prüfung/Schreiben",
-    "_Prüfung/Sprechen T2/Без названия",
     "_/Rektion/_Verbvalenz.canvas",
-    "Я работаю по найму ",
     "Regeln/Wortarten/Verben/Perfect.canvas",
     "Regeln/Wortarten/Konjunktionen/Konjunktionen.canvas",
     "Regeln/Wortarten/Verben/Verben Mit Präpositionen.canvas"
