@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4ec905798d9e60f5","type":"text","text":"Konjunktionen","x":-160,"y":-340,"width":250,"height":60},
+		{"id":"0eef4280f0ba48ba","type":"file","file":"Regeln/Wortarten/Konjunktionen/Gewerkschaftswörter.md","x":466,"y":-130,"width":894,"height":670},
+		{"id":"24b73b87308b52c0","type":"file","file":"Regeln/Wortarten/Konjunktionen/Unterordnende.md","x":-380,"y":-120,"width":780,"height":1440},
+		{"id":"6d697942b82b0620","type":"file","file":"Regeln/Wortarten/Konjunktionen/Koordinierende.md","x":-1280,"y":-120,"width":846,"height":440},
+		{"id":"7d528c9014c6cda8","type":"text","text":"aber ..., zwar\n","x":1400,"y":-120,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0bd22936839bd3fa","fromNode":"4ec905798d9e60f5","fromSide":"bottom","toNode":"6d697942b82b0620","toSide":"top"},
+		{"id":"c879da4f7ab43004","fromNode":"4ec905798d9e60f5","fromSide":"bottom","toNode":"24b73b87308b52c0","toSide":"top"},
+		{"id":"025c696808286854","fromNode":"4ec905798d9e60f5","fromSide":"bottom","toNode":"0eef4280f0ba48ba","toSide":"top"}
+	]
+}

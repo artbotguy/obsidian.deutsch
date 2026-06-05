@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "54c85ca83408f3a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b84b09e15fd38378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68ffd3fe6745b2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_/Sätze/С нетерпением жду твоего ответа!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "С нетерпением жду твоего ответа!"
+            }
+          },
+          {
+            "id": "eac51ee34124e47e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Prüfung/Schreiben/Übungsgelände.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Übungsgelände"
+            }
+          },
+          {
+            "id": "a3aafffd3d27631f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Prüfung/AB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df69e43e4570c65f",
+    "type": "split",
+    "children": [
+      {
+        "id": "62614246b4ad9f4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5178ecc9e24ed062",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6047cdac3850cba5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#US",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "69e522ac1926d36c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7d454fca20d00615",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f22ed3a60a016ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ef34bc9a7afddf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Prüfung/Sprechen T2/Theme/Alltag und Gewohnheiten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Alltag und Gewohnheiten"
+            }
+          },
+          {
+            "id": "e49d7ce3a9ce1b7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Prüfung/Sprechen T2/Theme/Alltag und Gewohnheiten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Alltag und Gewohnheiten"
+            }
+          },
+          {
+            "id": "8177d727b0783197",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "51f45a9004901e6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Prüfung/Sprechen T2/Theme/Alltag und Gewohnheiten.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Alltag und Gewohnheiten"
+            }
+          },
+          {
+            "id": "ddd229146d99e2cd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": true,
+      "graph:Граф": true,
+      "canvas:Создать новый холст": true,
+      "daily-notes:Сегодняшняя заметка": true,
+      "templates:Вставить шаблон": true,
+      "command-palette:Открыть палитру команд": true,
+      "bases:Создать новую базу": true,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "68ffd3fe6745b2af",
+  "lastOpenFiles": [
+    "_Prüfung/AB.md",
+    "_/Wörterbuch/Konjunction/außer.md",
+    "Wörterbuch/Konjunction/außer.md",
+    "Neu.md",
+    "_/Terminologie.md",
+    "_Prüfung/Schreiben/Übungsgelände.md",
+    "_/Sätze/С нетерпением жду твоего ответа!.md",
+    "_/Sätze/Кроме того, я хотел бы попросить тебя помоги мне, пожалуйста, составить сопроводительное письмо..md",
+    "_/Sätze/Я буду зарабатывать достаточно денег и работать с молодыми коллегами..md",
+    "_/Sätze/Я по-прежнему интересуюсь естественными науками, и эта профессия мне очень подходит..md",
+    "Promt.md",
+    "_/Templates/Satz.md",
+    "_/Sätze/Иметь опыт означает, что ты уже работал в этой сфере и немного разбираешься в этой теме..md",
+    "_Prüfung/Schreiben/B1 Schr.md",
+    "Wörterbuch/Konjunction/bis.md",
+    "Wörterbuch/_.py",
+    "Rektion/_Verbvalenz.canvas",
+    "Wörterbuch/Konjunction/ehe.md",
+    "Wörterbuch/Konjunction/um.md",
+    "Wörterbuch/Konjunction/seitdem.md",
+    "Wörterbuch/Konjunction/denn.sync-conflict-20250825-004945-AWTZEZ6.md",
+    "Rektion/Adjektive mit Präposition/-haben Lust auf.md",
+    "Wörterbuch/Mengenausdrücke/Sehr geehrte Damen und Herren.md",
+    "Rektion/Adjektive mit Präposition/-glücklich + über.md",
+    "Wörterbuch/Konjunction",
+    "Wörterbuch/Mengenausdrücke",
+    "Rektion/Adjektive mit Präposition",
+    "Rektion",
+    "Wörterbuch",
+    "_/Sätze/На тебя и на твою работу всегда можно положиться..md",
+    "_/Sätze/Я работаю в IT-сфере..md",
+    "_Prüfung/Sprechen T2/Theme/Alltag und Gewohnheiten.md",
+    "_/_Deutschonline/DeOn Sprach.md",
+    "Methodik.canvas",
+    "_Prüfung/Schreiben",
+    "_Prüfung/Sprechen T2/Без названия",
+    "_/Rektion/_Verbvalenz.canvas",
+    "Я работаю по найму ",
+    "Regeln/Wortarten/Verben/Perfect.canvas",
+    "Regeln/Wortarten/Konjunktionen/Konjunktionen.canvas",
+    "Regeln/Wortarten/Verben/Verben Mit Präpositionen.canvas"
+  ]
+}

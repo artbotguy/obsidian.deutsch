@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.tags.contains("GW")
+    order:
+      - file.name
+    sort:
+      - property: file.mtime
+        direction: ASC
+  - type: table
+    name: представление

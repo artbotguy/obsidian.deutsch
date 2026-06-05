@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e90c8435782d3b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d7d41bcb64e0c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd10c8bd8bc3664d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0163d79c5108703",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9659630a7f042b4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "2a004ffac78236c0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "fff9da6d473cf7c7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "dea661e8c496dd15",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      },
+      {
+        "id": "d4658c07b8de79fa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "aa751afea26564c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "daba2aa95c687a22",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_/_Geschichte.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "c90aa06ba56680cb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "22468af6af665a08",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "e17ae51765318b2e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Очередь заметок на повторение"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "dd10c8bd8bc3664d",
+  "lastOpenFiles": [
+    "Promt.md",
+    "_/Templates/Satz.md",
+    "_Prüfung/AB.md",
+    "Sätze/Я работаю в IT-сфере..md",
+    "Sätze/Лиза не только работает учителем, но и занимается волонтерской деятельностью..md",
+    "Sätze/Сельма не только хороша в математике, но и интересуется техникой..md",
+    "Sätze/Но со следующей недели она наконец-то сможет оставаться дома! Затем она уходит в декретный отпуск..md",
+    "Sätze/Она работает врачом в больнице, и это часто вызывает стресс и утомляет..md",
+    "_Selbststudium/Hören/_Metodik Hören.md",
+    "_Selbststudium/Hören/DLDH Ab B1.md",
+    "Methodik.canvas",
+    "_Prüfung/Sprechen T2/Theme/_Themenliste.md",
+    "Sätze/Иногда мне кажется, что я не достаточно стройная..md",
+    "Sätze/Но, как уже было сказано, это может нанести вред здоровью..md",
+    "Sätze/Регулярно измеряй кровяное давление, чтобы вовремя распознать болезни..md",
+    "Sätze/Таким образом, диеты для похудения — это, конечно, не зло, но и не панацея..md",
+    "Sätze/Лучше заниматься под руководством специалиста, например, тренера по фитнесу..md",
+    "Sätze/Если вы хотите попробовать диету или курс похудения, вам следует проконсультироваться со специалистом..md",
+    "Sätze/У некоторых из них есть заболевания из-за того, что они сидят на жестких курсах для похудения..md",
+    "Neu.md",
+    "Sätze/Даже если вы здоровы и чувствуете себя в форме, вам следует раз в три года обращаться к врачу и проходить обследование «Check-up 35»..md",
+    "_Prüfung/Schreiben/B1 Schr.md",
+    "Sätze/Тебе нужно найти другое хобби..md",
+    "Sätze/Я просто бросаю то, что сейчас делаю, и расслабляюсь..md",
+    "Sätze/Дорогая Анна, я хочу рассказать тебе о новой квартире..md",
+    "Sätze/Но есть и минус ближайшая автобусная остановка находится довольно далеко..md",
+    "Sätze/Тем не менее, я не считаю это проблемой, потому что мы оба работаем из дома..md",
+    "_Prüfung/Schreiben",
+    "Metodik.canvas",
+    "_/Golden Wörter.base",
+    "_/Prüfung Archive/A1/Canvas.canvas",
+    "_/Prüfung Archive/A2",
+    "_/Prüfung Archive/A1",
+    "_Prüfung/Sprechen T2/Theme",
+    "_/Prüfung Archive",
+    "_Prüfung/Sprechen T2",
+    "_Prüfung",
+    "_Selbststudium/_Prüfung/B1/Sprechen T2/Theme",
+    "_Selbststudium/_Prüfung/B1/Sprechen T2",
+    "_/Images/Pasted image 20260404123520.png",
+    "_/Images/Pasted image 20260404130039.png",
+    "Rektion/_Verbvalenz.canvas",
+    "Regeln/Wortarten/Verben/Perfect.canvas",
+    "Regeln/Wortarten/Verben/Präfixe.canvas",
+    "_Selbststudium/_Prüfung/A1/Canvas.canvas",
+    "Regeln/Wortarten/Konjunktionen/Konjunktionen.canvas",
+    "Regeln/Wortarten/Verben/Verben Mit Präpositionen.canvas"
+  ]
+}

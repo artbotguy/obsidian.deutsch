@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"97ced3c6128ab4b0","type":"group","x":320,"y":-200,"width":1020,"height":520,"label":"\"unbelebtes\""},
+		{"id":"fc7d8a1680b817e7","type":"text","text":"##### animiertes Pronomen\n\n*Er denkt an sie.*\n>[!NOTE]+\n>Аналогично, как и с существительными","x":-240,"y":-184,"width":521,"height":244},
+		{"id":"d7cc57eb138fad84","type":"text","text":"Verb mit Präposition +","x":255,"y":-380,"width":250,"height":60},
+		{"id":"bba79d007cfaf295","type":"text","text":"##### Fragesatz\n> Präposition + wen/wem\n\n*An wen denkst du?*\n\n> [!NOTE]+ Падежные формы **wer**\n> Представлены падежами Akkusativ/Dativ","x":-240,"y":120,"width":521,"height":320},
+		{"id":"07080a29351e8916","type":"text","text":"##### unbelebtes Pronomen\n> **da + (r) + Präposition**\n\n*Er denkt daran.*\n\n\n","x":347,"y":-178,"width":427,"height":206},
+		{"id":"0fbadbd485683a47","type":"text","text":"##### Nomen\n\n*Er denkt die ganze Zeit an die Arbet.*\n>[!NOTE]+ \n>Чтобы корректно использовать учим сочетания глаголов с предлогами (управление)","x":-800,"y":-184,"width":520,"height":244},
+		{"id":"1de89ced11937270","type":"text","text":"##### Fragesatz\n\n> **wo + (r) + Präposition**\n\n*Woran denkst du?*\n*Worin liegt das Problem?*","x":347,"y":60,"width":427,"height":180},
+		{"id":"578ef50c1875e946","type":"text","text":"##### Nebensatz\n> **da + (r) + Konjunktion/Fragewort**\n\n*Ich denke daran, was wir tun müssen.*","x":820,"y":-177,"width":460,"height":204}
+	],
+	"edges":[
+		{"id":"a2e417ad2cc37b58","fromNode":"d7cc57eb138fad84","fromSide":"bottom","toNode":"0fbadbd485683a47","toSide":"top"},
+		{"id":"156a10c4bfeba123","fromNode":"d7cc57eb138fad84","fromSide":"bottom","toNode":"fc7d8a1680b817e7","toSide":"top"},
+		{"id":"c3ec1650a93a7961","fromNode":"d7cc57eb138fad84","fromSide":"bottom","toNode":"07080a29351e8916","toSide":"top"},
+		{"id":"768ca2c1b5b70a4d","fromNode":"fc7d8a1680b817e7","fromSide":"bottom","toNode":"bba79d007cfaf295","toSide":"top","toEnd":"none"},
+		{"id":"e1534d5bbe72bead","fromNode":"07080a29351e8916","fromSide":"bottom","toNode":"1de89ced11937270","toSide":"top","toEnd":"none"},
+		{"id":"e234c78473d81392","fromNode":"d7cc57eb138fad84","fromSide":"bottom","toNode":"578ef50c1875e946","toSide":"top"},
+		{"id":"7a7bdb808adb7d7e","fromNode":"07080a29351e8916","fromSide":"right","toNode":"578ef50c1875e946","toSide":"left","toEnd":"none"}
+	]
+}

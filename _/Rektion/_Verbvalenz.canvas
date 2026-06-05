@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"b34d07ecdea7b89d","type":"text","text":"```mermaid\npie title Распределение глагольных управлений по предлогам и падежам\n\"ÜBER\" : 25\n\"AUF\" : 25\n\"VON\" : 15\n\"MIT\" : 15\n\"AN_dat\" : 12\n\"FÜR\" : 12\n\"UM\" : 10\n\"ZU\" : 10\n\"VOR\" : 6\n\"AN_akk\" : 6\n\"NACH\" : 4\n\"IN_dat\" : 4\n\"AUS\" : 3\n\"IN_akk\" : 3\n\"GEGEN\" : 3\n```\n\n","x":-308,"y":-263,"width":508,"height":383},
+		{"id":"ae18dbb6e7b550bb","type":"text","text":"\n## ==Akkusativ==\n\n```dataviewjs\nawait dv.view(\"scripts/verbTable\", {tags: [\"ÜBER\", \"AUF\", \"FÜR\", \"UM\"]});\n```\n```dataviewjs\nawait dv.view(\"scripts/verbTable\", {tags: [\"AN_akk\", \"IN_akk\", \"GEGEN\", \"N/A\"]});\n```\n\n## ==Dativ==\n\n```dataviewjs\nawait dv.view(\"scripts/verbTable\", {tags: [\"VON\", \"MIT\", \"AN_dat\", \"ZU\"]});\n```\n```dataviewjs\nawait dv.view(\"scripts/verbTable\", {tags: [\"VOR\", \"NACH\", \"IN_dat\", \"AUS\"]});\n```\n\n\n\n\n\n\n\n\n\n\n\n","x":260,"y":-480,"width":940,"height":1260}
+	],
+	"edges":[]
+}

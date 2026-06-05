@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2a1ecb04f0687521","type":"text","text":"## **regelmäßige?**","x":-120,"y":-293,"width":250,"height":133},
+		{"id":"e88fc94ac9bfec68","type":"text","text":"### **trennbare?**","x":-120,"y":-140,"width":250,"height":50},
+		{"id":"4d1188b29594fdb2","type":"text","text":"studieren —> studier***t***","x":-120,"y":-460,"width":250,"height":60,"color":"6"},
+		{"id":"9b953129dd24cfb1","type":"text","text":"anrufen —> an***ge***ruf***en***","x":20,"y":81,"width":250,"height":60,"color":"4"},
+		{"id":"f61309ca2b418bdc","type":"text","text":"einkaufen —> ein***ge***kauf***t***","x":-260,"y":81,"width":250,"height":60,"color":"4"},
+		{"id":"f56bfee5a8c0050a","type":"text","text":"besuchen —> besuch***t***","x":-260,"y":200,"width":250,"height":60,"color":"1"},
+		{"id":"634d73d154977e6f","type":"text","text":"beginnen —> begonn***en***","x":20,"y":200,"width":250,"height":60,"color":"1"},
+		{"id":"5aad06a449c0f174","type":"text","text":"sein","x":420,"y":-460,"width":250,"height":60},
+		{"id":"90975746e2204e8e","type":"text","text":"haben","x":684,"y":-460,"width":250,"height":60},
+		{"id":"4be6e95372ac8cd0","x":-1040,"y":-430,"width":595,"height":204,"type":"text","text":"# Regel\n\n- Verben, die eine Bewegung in eine Richtung ausdrücken, z. B.: _kommen, gehen, laufen, fahren, fliegen_ ...\n- Verben, die einen Prozess beschreiben, den man nicht kontrollieren kann, z. B.: _aufwachen, einschlafen, sterben_ ...\n- die Verben _sein, werden, bleiben_"}
+	],
+	"edges":[
+		{"id":"dc869430d724f12f","fromNode":"2a1ecb04f0687521","fromSide":"left","toNode":"e88fc94ac9bfec68","toSide":"left","toEnd":"none","color":"5","label":"Ja"},
+		{"id":"12073ccc0a4493cf","fromNode":"2a1ecb04f0687521","fromSide":"right","toNode":"e88fc94ac9bfec68","toSide":"right","toEnd":"none","color":"2","label":"Nein"},
+		{"id":"97d3147d76ce0bc5","fromNode":"e88fc94ac9bfec68","fromSide":"left","toNode":"f61309ca2b418bdc","toSide":"top","color":"4","label":"Ja"},
+		{"id":"65a36749d1c8abd8","fromNode":"e88fc94ac9bfec68","fromSide":"right","toNode":"9b953129dd24cfb1","toSide":"top","color":"4","label":"Ja"},
+		{"id":"14c50745f4d065fb","fromNode":"e88fc94ac9bfec68","fromSide":"left","toNode":"f56bfee5a8c0050a","toSide":"left","color":"1","label":"Nein"},
+		{"id":"b15508b7de7e90c8","fromNode":"e88fc94ac9bfec68","fromSide":"right","toNode":"634d73d154977e6f","toSide":"right","color":"1","label":"Nein"},
+		{"id":"4dc9c811dbf0714c","fromNode":"2a1ecb04f0687521","fromSide":"top","toNode":"4d1188b29594fdb2","toSide":"bottom","toEnd":"none","color":"6","label":"-ieren ?"}
+	]
+}

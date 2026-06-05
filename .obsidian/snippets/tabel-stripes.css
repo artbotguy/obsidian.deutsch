@@ -1,0 +1,6 @@
+.markdown-rendered hr,
+.cm-line.hr hr {
+    height: 2px;
+    background-color: #444444 !important;
+    border: none;
+}

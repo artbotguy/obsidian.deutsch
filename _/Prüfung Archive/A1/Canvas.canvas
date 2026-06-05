@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"b89e382f6967452f","type":"text","text":"- Lieber Herr Peter Müller\n- Liebe Frau Luisa Müller","x":-70,"y":-340,"width":360,"height":100,"color":"1"},
+		{"id":"9e383333064cd3f3","type":"text","text":"- Sehr geehrte Damen und Herren\n- Sehr geehrter Herr Müller\n- Sehr geehrte Frau Müller","x":-560,"y":-340,"width":370,"height":100,"color":"1"},
+		{"id":"47f9f3a682ebfba5","type":"text","text":"- Wie geht es Ihnen?\n- Danke für Ihre Einladung!\nHerzlichen Glückwunsch zu <>!\n- Ich möchte Sie fragen:\nEs tut mir leid!\n\n- Schreiben Sie mir bitte, ob das möglich ist.\n- Rufen Sie mich bitte an!\n- Ich warte auf Ihre Antwort.","x":-320,"y":-220,"width":375,"height":280,"color":"1"},
+		{"id":"33bdd6296ae28f48","type":"text","text":"Mit freundlichen Grüßen\nArtem Botkin","x":-600,"y":140,"width":250,"height":60,"color":"1"},
+		{"id":"9b7d60fb3869aeec","type":"text","text":"Herzliche Grüße\nArtem Botkin","x":55,"y":140,"width":250,"height":60,"color":"1"},
+		{"id":"09d81ce61a3b5e66","type":"text","text":"- Wie geht es Dir?\n\n- Danke für Deine Einladung!\n- Ich möchte Dich fragen:\n\n- Schreib mir bitte!\n- Ruf mich bitte an!\n- Ich warte auf Deine Antwort.","x":-954,"y":-220,"width":314,"height":240,"color":"4"},
+		{"id":"1c0cce876dfa87a1","type":"text","text":"Liebe Grüße\nArtem","x":-922,"y":140,"width":250,"height":60,"color":"4"},
+		{"id":"4f226515548a30bd","type":"text","text":"- Lieber Peter\n- Liebe Luisa","x":-937,"y":-340,"width":280,"height":100,"color":"4"}
+	],
+	"edges":[
+		{"id":"d4263418bf31daf1","fromNode":"9e383333064cd3f3","fromSide":"bottom","toNode":"47f9f3a682ebfba5","toSide":"left"},
+		{"id":"c391b6340294c686","fromNode":"b89e382f6967452f","fromSide":"bottom","toNode":"47f9f3a682ebfba5","toSide":"right"},
+		{"id":"876bd71c70618902","fromNode":"47f9f3a682ebfba5","fromSide":"left","toNode":"33bdd6296ae28f48","toSide":"top"},
+		{"id":"56475d38262f20ae","fromNode":"47f9f3a682ebfba5","fromSide":"right","toNode":"9b7d60fb3869aeec","toSide":"top"},
+		{"id":"f6e3670b0c9d50bf","fromNode":"4f226515548a30bd","fromSide":"bottom","toNode":"09d81ce61a3b5e66","toSide":"top"},
+		{"id":"e2b6bb1dc7986e68","fromNode":"09d81ce61a3b5e66","fromSide":"bottom","toNode":"1c0cce876dfa87a1","toSide":"top"}
+	]
+}
