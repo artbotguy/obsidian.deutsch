@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"aab47dac7399e6dc","type":"group","x":-813,"y":420,"width":2773,"height":661,"label":"Заметки"},
 		{"id":"5a996fe0151964da","type":"group","x":-817,"y":-300,"width":2777,"height":623,"label":"Организация"},
-		{"id":"b26f67f1ea4649d7","type":"file","file":"Neu.md","x":409,"y":-1275,"width":591,"height":885},
+		{"id":"b26f67f1ea4649d7","type":"file","file":"Der Plan.md","x":409,"y":-1275,"width":591,"height":885},
 		{"id":"e550564f8bd53498","type":"text","text":"## Блок повторяемого\n\n- [ ] ==Повторение Аудирования==\n- [ ] Общаемся с ИИ в Live-режиме (промт 2)\n- [ ] Prüfung voberaiten\n- [ ] ","x":-797,"y":-1020,"width":325,"height":290,"color":"6"},
 		{"id":"ee7d611cf1e79f63","type":"file","file":"_/Fortschritt.md","x":-1520,"y":-1360,"width":640,"height":1575},
 		{"id":"76db0ae8778e31e0","type":"text","text":"# ПОВТОРЯЕМ ВСЁ ИЗ ПРОШЛОГО УРОКА С ПОМОЩЬ SR и других инч","x":-793,"y":440,"width":251,"height":312},

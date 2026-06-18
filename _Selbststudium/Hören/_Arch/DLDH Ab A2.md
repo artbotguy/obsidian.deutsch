@@ -1,5 +1,5 @@
 # 725 Urlaub in Griechenland
-#a2
+#DLDH_a2_Geschichte 
 
 
 ==losgehen==
@@ -39,7 +39,7 @@ Freunde sind nach Griechenland gefahren. Die Natur hat sie überrascht. Es war s
 ---
 
 # 459 Weltreisen
-#a2
+#DLDH_a2_Geschichte 
 
 
 reichen
@@ -70,7 +70,7 @@ Markus und Sofie schauen sich verliebt in die Augen. Sie sind glücklich und fre
 
 ---
 # [635 Lernen in der Bibliothek](https://www.youtube.com/watch?v=rBLa10Z1Cms&list=PLX2E6b7TzXuSbVzt47e9mvmuIQ6P8IVZM&index=64)
-#a2
+#DLDH_a2_Geschichte 
 
 ```
 Через неделю у меня важный экзамен. Книга, которую я должен выучить, насчитывает 600 страниц. А я выучил только половину!

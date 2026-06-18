@@ -1,37 +1,13 @@
-#
-Liebe Lisa,
+_Letzte Woche hatte ich ein Vorstellungsgespräch. Ich war so nervös, dass ich einige Fragen nicht richtig beantworten konnte. Jetzt ärgere ich mich sehr und habe Angst, dass ich die Stelle nicht bekomme. Wie bereitet ihr euch auf ein Vorstellungsgespräch vor? Habt ihr Tipps gegen Nervosität?_
 
-ich möchte dir erzählen ~~davon~~, dass ich eine Ausbildung machen ==will==. 
-Wenn ich meine Ausbildung abgeschlossen habe, darf ich als Elektriker arbeiten. Ich ==*interessiere mich*== noch immer ==*für* **Naturwissenschaften**== und dieser Beruf passt mir sehr gut. 
-Eine Firma bietet sehr gute Bedingungen an. 
-Ich ==werde== genug Geld verdienen und mit jungen Kollegen arbeiten. 
 
-Ich schicke dir auch meinen Lebenslauf und mein Bewerbungsfoto. 
-Findest du sie gut? 
 
-Außerdem möchte ich ==dich== bitten: Hilf mir bitte, ein Anschreiben zu formulieren.
+Es tut mir leid, ich verstehe Sie sehr gut. ***Eines Tages ist mir etwas Ähnliches passiert.*** ***Auch wenn*** man Berufserfahrung hat, kann man nervös sein. Das ist normal. Ich bereite ==mich== normalerweise sehr gut vor, aber man kann nicht alle Fragen ohne Stress ==beantworten==. 
+Normalerweise informiere ich mich über die Firma und übe mit jemandem ==ein Vorstellungsgespräch==. Außerdem bereite ich eigene Fragen vor, die ich im Gespräch stelle. Also damit man nur ein wenig Stress hat, sollte man genug Informationen haben.
+Ich glaube, alles wird gut und Sie bekommen die Stelle. Viel Erfolg!
 
-***Ich freue mich sehr auf deine Antwort!***
+-
 
-Viele Grüße,
-Artjom
-
---
-
-*Liebe Lisa,*
-
-*ich möchte dir erzählen, dass ich eine Ausbildung machen will.*  
-*Wenn ich meine Ausbildung abgeschlossen habe, darf ich als Elektriker arbeiten.*  
-*Ich interessiere mich noch immer für Naturwissenschaften und dieser Beruf passt mir sehr gut.*  
-*Eine Firma bietet sehr gute Bedingungen.*  
-*Ich werde genug Geld verdienen und mit jungen Kollegen arbeiten.*
-
-*Ich schicke dir auch meinen Lebenslauf und mein Bewerbungsfoto.*  
-*Findest du sie normal?*
-
-*Außerdem möchte ich dich bitten: Hilf mir bitte, ein Anschreiben zu formulieren.*
-
-*Ich freue mich sehr auf deine Antwort!*
-
-*Viele Grüße,*  
-*Artjom*
+*Es tut mir leid, ich verstehe Sie sehr gut. Eines Tages ist mir etwas Ähnliches passiert. Selbst wenn man Berufserfahrung hat, kann man nervös sein – das ist normal. Ich bereite mich normalerweise sehr gut vor, aber man kann nicht alle Fragen ohne Stress beantworten.*
+*Normalerweise informiere ich mich über die Firma und übe mit jemandem ein Vorstellungsgespräch. Außerdem bereite ich dieselben Fragen vor, die ich im Gespräch stelle. Also damit man nur ein wenig Stress hat, sollte man genug Informationen haben.*
+*Ich glaube, alles wird gut und Sie bekommen die Stelle. Viel Erfolg!*

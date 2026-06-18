@@ -1,5 +1,5 @@
 # [Ein Kind, drei Sprachen](https://www.youtube.com/watch?v=nKcqtucRap4&list=PLX2E6b7TzXuSbVzt47e9mvmuIQ6P8IVZM&index=27)
-#a2 
+#DLDH_a2_Geschichte 
 
 Luis ist fünf Jahre alt. Sein Papa kommt aus Russland. Seine Mama ist Deutsche. Zusammen wohnen sie in Deutschland. Doch sein Papa spricht nur ein bisschen Deutsch und seine Mama nur ein bisschen Russisch. Deshalb reden sie miteinander Englisch.
 Mit Luis reden sie alle drei Sprachen. Am Anfang haben sie sich Sorgen gemacht. Sind drei Sprachen zu viel für ihn? Sie haben mit einem Experten darüber geredet. Er hat ihnen viele Empfehlungen gegeben.
@@ -103,6 +103,51 @@ Es gibt viele verschiedene Regeln. Eine Schwangere darf sechs Wochen vor der Geb
 In Deutschland, Österreich und der Schweiz darf man auch in den Wochen nach der Geburt nicht sofort wieder arbeiten. Normalerweise sind das acht Wochen. Die meisten Mütter bleiben aber ein bis zwei Jahre zu Hause bei ihren Kindern. Der Staat und ihre Firma geben ihr Geld während dieser Zeit. Auch Eva wird zwei Jahre bei ihrer Tochter bleiben. Sie freut sich schon sehr auf die Zeit, die sie mit ihrem Kind verbringen kann.
 
 
+---
+
+# 893 Ausbildung
+#DLDH_a2_Geschichte  
+
+1. Was hat Lisa im letzten Sommer gemacht?
+2. Aus welchem Grund hat Lisa sich gegen ein Studium entschieden?
+3. Welche Art von Ausbildung macht Lisa?
+4. Um welche Uhrzeit beginnt Lisa normalerweise zu arbeiten?
+5. Was gehört morgens zu Lisas Aufgaben?
+6. Wie ist die Arbeitssituation für Pfleger in den Heimen laut Text?
+7. Was denken leider viele Menschen über den Pflegeberuf?
+8. Was ist für Lisa persönlich wichtiger als das Gehalt?
+9. Welches Gefühl löst es bei Lisa aus, wenn sich ein Bewohner bei ihr bedankt?
+10. Was wünscht sich Lisa für die Zukunft?
+
+Lisa hat die Schule letzten Sommer beendet. Sie möchte jedoch nicht studieren. Stattdessen möchte sie lieber gleich arbeiten gehen. Deshalb hat sie sich dazu entschieden, eine Ausbildung zu beginnen. An manchen Tagen ist die Arbeit von Lisa sehr stressig. Sie macht eine Ausbildung zur Krankenpflegerin in einem Altenheim. Die Arbeit macht ihr viel Spaß, aber sie ist auch sehr anstrengend. Meistens hat Lisa Frühdienst. Sie muss dann schon um 6 Uhr morgens mit der Arbeit beginnen. Es gibt viele verschiedene Aufgaben, um die sie sich kümmern muss. Sie wäscht die Bewohner des Altersheims und bringt ihnen das Frühstück. Außerdem putzt sie die Räume. Lisa und ihre Kollegen haben den ganzen Tag lang sehr viel zu tun. Es wäre schön, wenn mehr Leute als Altenpfleger arbeiten würden. Aber nur wenige Menschen möchten diesen Job machen. Die Arbeit ist nicht gut bezahlt. Leider finden viele Leute den Beruf nicht gut. Dabei brauchen die Pfleger in den Heimen dringend Unterstützung. Oft gibt es in den Heimen nicht genug Mitarbeiter. Das macht schwieriger die Arbeit für die Pflegenden. Viele junge Menschen suchen nach einem Beruf. Vielleicht ist eine Ausbildung die richtige Wahl. Für Lisa ist das Geld nicht wichtig. Sie macht die Arbeit, um alten Menschen zu helfen. Oft bedankt sich ein Bewohner des Heims für ihre Arbeit. Das macht sie glücklich. Sie wünscht sich, dass mehr Leute erkennen, wie wichtig ihre Arbeit ist. Denn viele alte Menschen brauchen Unterstützung. Dafür werden Pfleger wie Lisa benötigt.
+
+
+
+---
+
+#DLDH_b1_Dialog 
+
+# 681 Dialog Nr.:94: Frau Winnter in der Agentur für Arbeit 
+
+`Mitarbeiterin:` Frau Winter, wie schön, dass der Termin geklappt hat. Bitte setzen Sie sich doch. Wir hatten ja schon telefoniert. Sie suchen eine Stelle als Floristin. Haben Sie da schon Berufserfahrung? 
+`Fr. Winter:` Ähh … nicht direkt. Ich arbeite seit 25 Jahren im Betrieb meiner Eltern. Sie haben ein Bestattungsunternehmen. Meine Aufgabe war immer, die Blumendekoration im Saal zu gestalten. Für die Trauerfeier, Sie wissen schon.
+`Mitarbeiterin:` Aha. Und das möchten Sie nicht mehr?
+`Fr. Winter:` Nein. Meine Eltern geben das Geschäft auf und ich suche nun etwas Eigenes. Eine Stelle, bei der ich mit Blumen arbeiten kann. Das hat mir immer viel Spaß gemacht. Und die Kunden waren immer sehr zufrieden.
+`Mitarbeiterin:` Okay. Ich denke, man kann das als Berufserfahrung anerkennen. Heute Morgen habe ich ein Angebot bekommen. Das könnte Sie vielleicht interessieren. Es handelt sich um die Friedhofsgärtnerei Böhmer. Die suchen zum nächsten Monat eine Floristin in Vollzeit. Wäre das etwas für Sie? 
+`Fr. Winter:` Ja, das hört sich passend an. Ich bleibe da ja fast in der Branche. Und Vollzeit ist gut. Haben Sie auch Informationen über das Gehalt?
+`Mitarbeiterin:` Ja, Sie werden bestimmt mit dem Gehalt zufrieden sein. Das ist zwischen 2.100 und 2.300 Euro brutto im Monat und dazu Urlaubsgeld, Weihnachtsgeld. Ich drucke Ihnen das Stellenangebot mal aus. Und ich rufe auch gleich dort an und mache einen Vorstellungstermin für Sie aus. 
+`Fr. Winter:` Das ist nett, Dankeschön. Ich hoffe, es klappt. Dann kann ich endlich eine eigene Wohnung suchen. Mit 45 wird das auch langsam mal Zeit …
+
+
+1. Was ist das Thema des Gesprächs?
+2. Wer sind die Gesprächspartner?
+3. Was ist der Anlass des Gesprächs?
+4. Was sind die wichtigsten Punkte des Gesprächs?
+5. Wie endet das Gespräch?
+6. Was sind Frau Winters Stärken und Schwächen als Floristin?
+7. Warum möchte Frau Winter eine neue Stelle suchen?
+8. Wie hat sich Frau Winter auf das Vorstellungsgespräch vorbereitet?
+9. Wie geht Frau Winter mit einer möglichen Absage um?
 
 
 
@@ -118,6 +163,15 @@ In Deutschland, Österreich und der Schweiz darf man auch in den Wochen nach der
 
 
 
+
+
+
+
+
+
+
+
+	
 
 
 
